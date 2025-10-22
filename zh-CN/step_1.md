@@ -1,14 +1,14 @@
-The starter file has a library of useful images.
+初始文件包含一个有用的图像库。
 
-Click on the 'Image gallery' icon.
+点击“图片库”图标。
 
-![A square shaped icon with a mountain scene and the sun show in the icon.](images/view-gallery.png)
+![一个方形图标，其中有山景和太阳图案。](images/view-gallery.png)
 
-Scroll through the image library and make a note of the file name of an image you would like to use in your webpage.
+滚动浏览图像库并记下你想要在网页中使用的图像的文件名。
 
-![The image library with love.png file shown.](images/editorimage-gallery.png)
+![显示 love.png 文件的图像库。](images/editorimage-gallery.png)
 
-Add your image to the `<main></main>` in `index.html` so that it appears on your webpage.
+将你的图像添加到 `index.html` 中的 `<main></main>` ，以便它出现在你的网页上。
 
 ## --- code ---
 
